@@ -26,6 +26,8 @@
  
  # The real ideia behind Program
  
+ [HERE TALKS ABOUT](https://github.com/DIGOARTHUR/Cpp-01-GuessingGame#the-real-ideia-behind-program)
+
 
  
  
