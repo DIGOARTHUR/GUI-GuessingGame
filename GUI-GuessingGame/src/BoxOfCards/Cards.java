@@ -1,8 +1,7 @@
 package BoxOfCards;
-
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
-import BoxOfCards.Table;
+
 public class Cards {
 	public static JLabel[] deckCards = new JLabel[21];
 	Reorganizar cartas = new Reorganizar();
@@ -59,7 +58,7 @@ public Cards() {
 	deckCards[19]= espQ;
 	deckCards[20]= paus10;
 	
-	// implementar reoganização aleatoria na mesa
+	// 
 	
 }
 	
