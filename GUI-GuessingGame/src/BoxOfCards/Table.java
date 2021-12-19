@@ -33,29 +33,29 @@ public class Table extends JFrame implements ActionListener{
 	
 	public void actionPerformed(ActionEvent e) {
 		if(e.getSource()==botão1){
-janela.dispose();
+//janela.dispose();
 			
 
 			reorganizarCartas.reorganizar(deckCards.getDeckCards(), getContentPane());
-			embaralha.embaralha(deckCards.getDeckCards(),1, getContentPane(), reorganizarCartas );
+		//	embaralha.embaralha(deckCards.getDeckCards(),1, getContentPane(), reorganizarCartas );
 			
-			Embaralha embaralha = new Embaralha();
+			//Embaralha embaralha = new Embaralha();
 			
-			embaralha.embaralha(deckCards,1, getContentPane(), cartas );
+		//	embaralha.embaralha(deckCards,1, getContentPane(), cartas );
 			
 			}else {
 				if(e.getSource()==botão2) {
 				
 					Embaralha embaralha = new Embaralha();
 					
-					embaralha.embaralha(deckCards,2,getContentPane(),cartas );
+				//	embaralha.embaralha(deckCards,2,getContentPane(),cartas );
 					
 				} else {
 					
 					if(e.getSource()==botão3) {
 						
 						Embaralha embaralha = new Embaralha();
-						embaralha.embaralha(deckCards,3,getContentPane(),cartas );
+					//	embaralha.embaralha(deckCards,3,getContentPane(),cartas );
 						
 					}
 				}
