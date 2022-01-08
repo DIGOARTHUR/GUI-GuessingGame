@@ -67,8 +67,7 @@ git clone https://github.com/DIGOARTHUR/GUIGuessingGame.git
 </p> 
 
 
-<img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148624660-d43c2dbc-c5f1-40d4-bc0c-3737a49d6fc0.png">
-# A real ideia por de trás do programa
+#  <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148624660-d43c2dbc-c5f1-40d4-bc0c-3737a49d6fc0.png"> A real ideia por de trás do programa
  
  [HERE TALKS ABOUT](https://github.com/DIGOARTHUR/Cpp-01-GuessingGame#the-real-ideia-behind-program)
 
