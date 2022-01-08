@@ -31,7 +31,7 @@ Na minha jornada na Universidade tive uma ideia em 'materializar' isso no mundo 
  No primeiro momento que carrega a GUI, o efeito de movimento ocorre, mas depois a janela fica estática. Esse é um problema que venho tentando resolver há um tempo.
  
  
- # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodar o código
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando o código
  1. Clone o repositorio
 ```
 git clone https://github.com/DIGOARTHUR/GUIGuessingGame.git
